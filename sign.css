@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(66, 4, 124);
+}
+#square{
+    width: 300px;
+    height: 470px;
+    background-color: white;
+    margin-top: 70px;
+   
+}
+#one{
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+#two{
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: -30px;
+}
+#first{
+    width: 250px;
+    border:2px solid blue;
+   
+}
+#first:hover{
+    border:2px solid green;
+}
+#second{
+    width: 250px;
+    border:2px solid blue;
+}
+#second:hover{
+    border:2px solid green;
+}
+#third{
+    width: 250px;
+    border:2px solid blue;
+}
+#third:hover{
+    border:2px solid green;
+}
+#forth{
+    width: 250px;
+    border:2px solid blue;
+}
+#forth:hover{
+    border:2px solid green;
+}
+#fifth{
+    width: 250px;
+    border:2px solid blue;
+}
+#fifth:hover{
+    border:2px solid green;
+}
+#submit{
+    width: 250px;
+    background-color: green;
+    color: white;
+}
+#log{
+    color: aliceblue;
+}
+a:link{
+    color: green;
+}
+#in:hover{
+    color:red;
+
+}
+#in:active{
+    color: green;
+}
+#in:visited{
+    color: green;
+}
